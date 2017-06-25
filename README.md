@@ -11,8 +11,7 @@
 
 Demo
 ------------
-
-<a href="http://lion.moroz.rv.ua/">Demo</a><br />
+<a href="http://lion.moroz.rv.ua/" target="_blank">Demo</a><br />
 
 
 Installation
