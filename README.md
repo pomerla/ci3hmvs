@@ -1,7 +1,7 @@
 # ci3hmvs
 <p align="center">
   <a href="https://v4-alpha.getbootstrap.com">
-    <img src="http://v4-alpha.getbootstrap.com/assets/brand/bootstrap-solid.svg" width=72 height=72>
+    <img src="http://www.beadingusa.com/images/AlphabetBlocks4.5/SterlingSilverBlockLetterCH901-F.jpg" width=72 height=72>
   </a>
 
   <h3 align="center">ci3hmvs</h3>
