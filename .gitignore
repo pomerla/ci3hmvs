@@ -1,20 +1,22 @@
-*/config/development
-*/logs/log-*.php
-!*/logs/index.html
-*/cache/*
-!*/cache/index.html
-!*/cache/.htaccess
+#*/config/development
+#*/logs/log-*.php
+#!*/logs/index.html
+#*/cache/*
+#!*/cache/index.html
+#!*/cache/.htaccess
 
 #codeigniter ci3hmvs
-system/apps/config/*
-system/apps/logs/*
-!system/apps/logs/index.html
-!system/apps/logs/.htaccess
-ci3hmvs_backup.sql
+#system/apps/config/*
+#system/apps/logs/*
+#!system/apps/logs/index.html
+#!system/apps/logs/.htaccess
 
 
 #codeigniter 3
-application/logs/*
-!application/logs/index.html
-!application/logs/.htaccess
-/vendor/
+#application/logs/*
+#!application/logs/index.html
+#!application/logs/.htaccess
+#/vendor/
+
+composer.lock
+ci3hmvs_backup.sql

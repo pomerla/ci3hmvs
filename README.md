@@ -1,6 +1,7 @@
 # ci3hmvs
 
-<h2>ci3hmvs</h2>
+<strong>Not a working version of the system under development.</strong>
+<strong>Не рабочий вариант системы в стадии разработки.</strong>
 
 
 
