@@ -5,10 +5,13 @@
 !*/cache/index.html
 !*/cache/.htaccess
 
-user_guide_src/build/*
-user_guide_src/cilexer/build/*
-user_guide_src/cilexer/dist/*
-user_guide_src/cilexer/pycilexer.egg-info/*
+#codeigniter ci3hmvs
+system/apps/config/*
+system/apps/logs/*
+!system/apps/logs/index.html
+!system/apps/logs/.htaccess
+ci3hmvs_backup.sql
+
 
 #codeigniter 3
 application/logs/*

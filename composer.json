@@ -1,0 +1,15 @@
+{
+	"description": "The myopencart15511ru A short description of what your package does",
+	"name": "pomerla/ci3hmvs",
+	"type": "project",
+	"homepage": "http://moroz.rv.ua",
+	"license": "MIT",
+	"support": {
+		"forum": "http://moroz.rv.ua/",
+		"wiki": "http://moroz.rv.ua",
+		"source": "https://github.com/pomerla/ci3hmvs"
+	},
+	"require": {
+		"php": ">=5.3.7"
+	}
+}
