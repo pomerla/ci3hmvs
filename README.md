@@ -13,6 +13,12 @@ Demo
 ------------
 <a>Demo ci3hmvs</a><br />
 
+Requirements
+------------
+<ul>
+  <li>MySQL for the main data store</li>
+</ul>
+
 
 Installation
 ------------
