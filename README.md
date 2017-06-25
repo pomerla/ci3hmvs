@@ -11,7 +11,7 @@
 
 Demo
 ------------
-<a href="http://lion.moroz.rv.ua/" target="_blank">Demo</a><br />
+<a href="http://lion.moroz.rv.ua/" target="_blank">Demo ci3hmvs</a><br />
 
 
 Installation
