@@ -9,6 +9,11 @@
 [![License](https://poser.pugx.org/pomerla/ci3hmvs/license)](https://packagist.org/packages/pomerla/ci3hmvs)
 [![composer.lock](https://poser.pugx.org/pomerla/ci3hmvs/composerlock)](https://packagist.org/packages/pomerla/ci3hmvs)
 
+Demo
+------------
+
+<a href="http://lion.moroz.rv.ua/">Demo</a><br />
+
 
 Installation
 ------------
@@ -23,7 +28,7 @@ composer create-project pomerla/ci3hmvs
 
 After installation correct 
 ```
-config.php and admin/config.php for work with the database.
+config.php for work with the database.
 ```
 
 backup mysql файл mysql_backup.sql add to your database.
