@@ -1,6 +1,6 @@
 # ci3hmvs
 <p align="center">
-  <a href="https://v4-alpha.getbootstrap.com">
+  <a href="http://moroz.rv.ua">
     <img src="http://www.beadingusa.com/images/AlphabetBlocks4.5/SterlingSilverBlockLetterCH901-F.jpg" width=72 height=72>
   </a>
 
@@ -11,14 +11,14 @@
 	<strong>Not a working version of the system under development.</strong><br />
 <strong>Не рабочий вариант системы в стадии разработки.</strong>
     <br>
-    <a href="https://v4-alpha.getbootstrap.com"><strong>Explore ci3hmvs docs &raquo;</strong></a>
+    <a href="http://moroz.rv.ua"><strong>Explore ci3hmvs docs &raquo;</strong></a>
     <br>
     <br>
-    <a href="https://themes.getbootstrap.com">ci3hmvs Themes</a>
+    <a href="http://moroz.rv.ua">ci3hmvs Themes</a>
     &middot;
-    <a href="https://jobs.getbootstrap.com">Job Board</a>
+    <a href="http://moroz.rv.ua">Job Board</a>
     &middot;
-    <a href="https://blog.getbootstrap.com">Blog</a>
+    <a href="http://moroz.rv.ua">Blog</a>
   </p>
 </p>
 
