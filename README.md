@@ -16,7 +16,7 @@
     <br>
     <a href="http://moroz.rv.ua">ci3hmvs Themes</a>
     &middot;
-    <a href="http://moroz.rv.ua">Job Board</a>
+    <a href="http://moroz.rv.ua">Aleksander Moroz</a>
     &middot;
     <a href="http://moroz.rv.ua">Blog</a>
   </p>
